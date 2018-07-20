@@ -1,0 +1,9 @@
+{
+    "microsoft": {
+        "login": "",
+        "password": "",
+        "numOfSearches": 10
+    },
+    "shuffleSearch": true,
+    "isHeadless": false
+}

@@ -1,0 +1,33 @@
+{
+  "name": "microsoft-rewards",
+  "version": "0.0.1",
+  "private": false,
+  "description": "Automatically earn Microsoft reward points daily.",
+  "license": "MIT",
+  "author": "Mithrilhall",
+  "keywords": [
+    "microsoft-rewards",
+    "bing-rewards",
+    "microsoft rewards",
+    "bing rewards"
+  ],
+  "engines": {
+    "node": ">=8.11.3"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakek/ms-bing-rewards.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blakek/ms-bing-rewards/issues"
+  },
+  "homepage": "https://github.com/blakek/ms-bing-rewards#readme",
+  "dependencies": {
+    "config": "^1.30.0",
+    "node-notifier": "^5.2.1",
+    "puppeteer": "^1.6.0"
+  }
+}
